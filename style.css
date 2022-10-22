@@ -1,0 +1,51 @@
+.back_body{
+    background-color: black;
+}
+.my_color2 {
+
+    background-image:
+        -moz-linear-gradient(top, rgb(112, 1, 122), #0f010a);
+
+    box-shadow: 0px 0px 15px rgba(255, 207, 255, 0.5)
+}
+.btn_back {
+    background: rgb(94, 2, 102) !important;
+    color: white;
+}
+
+.btn_back:hover {
+    transition: .3s;
+    color: white;
+    background-color: rgb(126, 2, 138);
+}
+.btn_load {
+    background-color: rgb(94, 2, 102) !important;
+    color: white;
+}
+
+.btn_load:hover {
+    transition: .3s;
+    color: white;
+    background-color: rgb(126, 2, 138);
+}
+
+.my_color3 {
+
+    background-image:
+        -moz-linear-gradient(bottom, rgb(64, 1, 71), #0f010a);
+
+    box-shadow: 0px 0px 15px rgba(255, 207, 255, 0.5)
+}
+
+.btn-outline-secondary {
+    border: 1px solid  rgb(185, 181, 185);
+    color:  rgb(185, 181, 185);
+    background-color: #1f0315;
+}
+
+.btn-outline-secondary:hover {
+    border: 1px solid #470f34;
+    background-color: #470f34;
+    color: white;
+}
+
